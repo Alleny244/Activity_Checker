@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.do {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 55px;
+  padding-top: 60px;
+  color: white;
+}
+.in {
+  text-align: right;
+  margin-right: 30%;
+  padding-top: 10px;
+  padding-left: 50%;
+  font-size: 25px;
+  font-family: American Typewriter, serif;
+  font-weight: 900;
+  color: #f0d500;
+}
+#bg {
+  background-color: #128c7e;
+  height: 300px;
+}
+.fm {
+  background-color: #b19cd9;
+  height: 1000px;
+}
+.list {
+  background-color: #b19cd9;
+}
+.g {
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 20%;
+  align-items: center;
+  align-content: "center";
+}
+.for {
+  text-align: center;
+}
+
+form input[type="text"] {
+  display: block;
+  padding: 10px 0;
+  margin: 15px 0;
+  border-radius: 5px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form input[type="submit"] {
+  display: block;
+  padding: 10px 0;
+  margin: 1px;
+  border: 1px solid transparent;
+  background: #128c7e;
+  color: white;
+  border-radius: 5px;
+  width: 25%;
+  cursor: pointer;
+  transition: all 1s;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  font-size: large;
+}
+
+.su {
+  display: block;
+  padding: 10px 0;
+  margin: 1px;
+  border: 1px solid transparent;
+  background: red;
+  color: white;
+  border-radius: 5px;
+  width: 80px;
+  cursor: pointer;
+  transition: all 1s;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.lis {
+  color: #333333;
+  margin-left: 50px;
+  font-size: 25px;
+}
+
+.lis:hover {
+  color: #f0d500;
+  font-size: 35px;
+}
+.cv {
+  font-size: 35px;
+  margin-top: 60px;
+  text-align: center;
+  font-family: cursive;
+}
+.cv:hover {
+  color: #128c7e;
+  font-size: 45px;
+}
