@@ -1,3 +1,7 @@
+# A simple react web app
+* Web app running at https://activity-remainder.herokuapp.com
+* Go check it out and jot down your Schemas
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
